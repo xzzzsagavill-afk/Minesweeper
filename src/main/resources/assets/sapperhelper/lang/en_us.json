@@ -1,3 +1,4 @@
 {
-  "key.sapperhelper.toggle": "Toggle Sapper Helper"
+  "key.sapperhelper.toggle": "Toggle Sapper Helper",
+  "key.sapperhelper.auto": "Toggle Sapper Auto-click"
 }
